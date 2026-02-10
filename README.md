@@ -15,3 +15,24 @@ Vadra Anji Reddy
 Kalasalingam Academy of Research and Education
 
 Added one line as part of the GitHub workshop task.
+
+
+## Project Description
+This repository is created for GitHub workshop practice.
+ 
+## How to Run
+1. Clone the repository
+2. Open the project files
+3. Read the README file
+ 
+## Folder Structure
+- README.md
+- intro.txt
+
+## Author
+- Name: Anji Reddy Vadra
+
+## Additional Information
+- This project is part of a GitHub workshop assessment.
+- It demonstrates basic Git operations such as branching, committing, merging, and pull requests.
+- The repository is intended for learning and practice purposes only.
